@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SwapnilAgarwal14/my-app/static/css/main.073c9b0a.css",
+    "main.js": "/SwapnilAgarwal14/my-app/static/js/main.45742adc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SwapnilAgarwal14/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/SwapnilAgarwal14/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SwapnilAgarwal14/my-app/index.html",
+    "main.073c9b0a.css.map": "/SwapnilAgarwal14/my-app/static/css/main.073c9b0a.css.map",
+    "main.45742adc.js.map": "/SwapnilAgarwal14/my-app/static/js/main.45742adc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SwapnilAgarwal14/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.45742adc.js"
+  ]
+}
